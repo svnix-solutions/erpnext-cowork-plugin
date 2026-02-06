@@ -1,0 +1,8 @@
+{
+  "name": "erpnext-cowork",
+  "description": "ERPNext Cowork — end-to-end consulting workflow: analyse client transcripts, plan implementations, manage tasks in Teamwork.com, implement on ERPNext via browser automation, record work, and bill hours.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Astami"
+  }
+}

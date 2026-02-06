@@ -1,0 +1,12 @@
+# Local settings (contains credentials)
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Work artifacts (GIFs, analysis files)
+*.gif
+*-discovery-*.md
+*-work-summary-*.md
+*-billing-*.md
