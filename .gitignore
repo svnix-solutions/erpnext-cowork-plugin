@@ -1,6 +1,9 @@
 # Local settings (contains credentials)
 .claude/settings.local.json
 
+# Logs
+logs/
+
 # OS
 .DS_Store
 Thumbs.db
